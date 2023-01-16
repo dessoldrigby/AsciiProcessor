@@ -15,7 +15,7 @@ impl SymbImage {
             grid: (ingrid),
             width: (w),
             height: (h)
-        }
+        };
     }
 
     pub fn dimenstions(&self) -> (u32, u32) {
